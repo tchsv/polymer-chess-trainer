@@ -1,0 +1,38 @@
+{
+  "name": "chess-board",
+  "version": "0.0.5",
+  "homepage": "https://github.com/laat/chess-board",
+  "authors": [
+    "Sigurd Fosseng <sigurd@fosseng.net>"
+  ],
+  "description": "A Web Component for displaying chess positions",
+  "license": "MIT",
+  "main": "dist/chess-board.html",
+  "keywords": [
+    "web-components",
+    "es6",
+    "chess"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "src",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer-platform": "~0.2.1",
+    "traceur-runtime": "~0.0.24"
+  },
+  "_release": "0.0.5",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.0.5",
+    "commit": "df83137d5255e9a8242808db743442f2d97ab107"
+  },
+  "_source": "git://github.com/laat/chess-board.git",
+  "_target": "~0.0.5",
+  "_originalSource": "chess-board",
+  "_direct": true
+}

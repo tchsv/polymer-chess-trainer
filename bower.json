@@ -1,0 +1,28 @@
+{
+  "name": "polymer-chess-trainer",
+  "version": "0.0.0",
+  "authors": [
+    "Tim Cotton <timothy.r.cotton@gmail.com>"
+  ],
+  "description": "Chess Move Mapper using Polymer",
+  "main": "cmmMain",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals"
+  ],
+  "license": "MIT",
+  "homepage": "sandmountainapps.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0",
+    "chess-board": "~0.0.5"
+  }
+}
